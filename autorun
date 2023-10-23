@@ -1,0 +1,9 @@
+#!/bin/bash
+
+while true
+do
+    echo " *** Running script"
+    . ./run
+    echo " *** Script finished"
+    sleep 300
+done
